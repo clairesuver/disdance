@@ -1,4 +1,4 @@
 disdance
 ========
 
-Arduino-controlled distributed network of party monsters
+Arduino-controlled distributed network of party monsters!
